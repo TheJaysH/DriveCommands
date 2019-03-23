@@ -1,3 +1,9 @@
 {
-    "text": "this is a test"
+  "commands": [
+      {
+        "name" : "Test",
+        "action": "",
+        "result" : ""
+      }
+    ]
 }
